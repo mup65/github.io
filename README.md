@@ -3,9 +3,7 @@
 	<head>
 		<title>Result</title>
 	</head>
-	<body><h1>YEAH SANDWICHES</h1>
-	<img src="http://bit.ly/RhrMEn" />
-		<p>Mup65 begins making a new webpage!</p>
+	 	<p>Mup65 begins making a new webpage!</p>
 		<p>Step by step</p>
 		<p>This is a version 1.0</p>
 
