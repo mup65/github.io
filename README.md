@@ -8,7 +8,6 @@
 	<img src="https://imgnews.pstatic.net/image/047/2020/04/21/0002267174_001_20200421102308571.jpg?type=w647" />	
 		<p>Step by step</p>
 		<p>This is a version 1.0</p>
-
-	<video source src="https://github.com/mup65/mup65.github.io/blob/master/mup65.mp4" type="video/mp4" id="myVideo" width="640" controls autoplay> /video>	  
+		<video source src="https://github.com/mup65/mup65.github.io/blob/master/mup65.mp4" type="video/mp4" id="myVideo" width="640" controls autoplay> </video>	  
 	</body>
 </html>
