@@ -9,8 +9,6 @@
 		<p>Step by step</p>
 		<p>This is a version 1.0</p>
 
-	<video id="myVideo" width="640" controls autoplay>
-	<source src="https://github.com/mup65/mup65.github.io/blob/master/mup65.mp4" type="video/mp4">
-	  </video>	  
+	<video source src="https://github.com/mup65/mup65.github.io/blob/master/mup65.mp4" type="video/mp4" id="myVideo" width="640" controls autoplay> /video>	  
 	</body>
 </html>
