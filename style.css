@@ -163,7 +163,7 @@
   color: red; }
 
 .site-header {
-  background-color: #eef;
+  background-color: #000080;
   border-top: 0px;
   border-bottom: 0px; }
 
@@ -191,14 +191,14 @@ h1 {
     padding-top: 11px;
     font-family: 'Do Hyeon', sans-serif;
     font-size: 45px;
-    color:#fafafa;
+    color:#000080;
     text-align: center;
 }
 
 h4, h2, h3 {
     font-size: 30px;
     font-family: 'Do Hyeon', sans-serif;
-    color:#fafafa;
+    color:#000080;
     text-align: center;
 }
 .uppercase {
