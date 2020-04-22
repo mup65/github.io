@@ -54,14 +54,14 @@ h1 {
     padding-top: 11px;
     font-family: 'Do Hyeon', sans-serif;
     font-size: 45px;
-    color:#000080;
+    color:black;
     text-align: center;
 }
 
 h4, h2, h3 {
     font-size: 30px;
     font-family: 'Do Hyeon', sans-serif;
-    color:#000080;
+    color:black;
     text-align: center;
 }
 .uppercase {
