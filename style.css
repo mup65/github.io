@@ -172,7 +172,7 @@
   font-size: 45px;
   font-weight: 800;
   line-height: 1.8;
-  letter-spacing: 5px;
+  letter-spacing: 25px;
   margin-bottom: 5px;
   float: left; }
   .site-title, .site-title:visited {
@@ -190,11 +190,13 @@ h5 {
 h1 {    
     padding-top: 11px;
     font-family: 'Do Hyeon', sans-serif;
+    font-size: 45px;
     color:#fafafa;
     text-align: center;
 }
 
 h4, h2, h3 {
+    font-size: 30px;
     font-family: 'Do Hyeon', sans-serif;
     color:#fafafa;
     text-align: center;
