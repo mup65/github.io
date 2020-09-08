@@ -45,7 +45,7 @@
   width: 263px;
   height: 460px;
   background-image: url("images/courage.jpg");
-  background-position: 0px 20px;
+  /***background-position: 0px 20px; */
   background-repeat: no-repeat;
   -webkit-background-size: 263px 460px;
   -moz-background-size: 263px 460px;
