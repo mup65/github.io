@@ -39,6 +39,19 @@
   margin-bottom: 5px;  
   float: left; } ***/ 
 
+#header {
+  background: #26272b;
+  padding-bottom: 60px;
+  position: relative;
+}
+#header-outer {
+  height: 100%;
+  position: relative;
+}
+#header-inner {
+  position: relative;
+}
+
 #header-title {
   text-align: center;
   padding: 30px 30px;
