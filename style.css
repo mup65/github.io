@@ -24,7 +24,7 @@
 .warning {
   color: red; }
 
-.site-header {
+/***.site-header {
   background-color: lightgrey;
   color:black;
   border-top: 0px;
@@ -37,7 +37,35 @@
   line-height: 1.8;
   letter-spacing: 25px;
   margin-bottom: 5px;  
-  float: left; }
+  float: left; } ***/ 
+
+#header-title {
+  text-align: center;
+  padding: 30px 30px;
+}
+#header-title:before,
+#header-title:after {
+  content: "";
+  display: table;
+}
+#header-title:after {
+  clear: both;
+}
+#header-title .logo-wrap,
+#header-title .subtitle-wrap {
+  float: left;
+}
+#header-title .subtitle-wrap {
+  padding: 10px 0px 0px;
+  margin-left: 20px;
+}
+#header-title .subtitle {
+  font-family: 'Do Hyeon', sans-serif; 
+  font-style: italic;
+  line-height: 70px;
+  color: rgba(255,255,255,0.7);
+  text-shadow: 0 1px rgba(0,0,0,0.2);
+}
 
 /****************************text*/
 
