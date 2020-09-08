@@ -39,8 +39,21 @@
   margin-bottom: 5px;  
   float: left; } ***/ 
 
+.logo {
+  display: block;
+  padding: 10px 0;
+  width: 263px;
+  height: 60px;
+  background-image: url("/images/courage.jpg");
+  background-position: 0px 10px;
+  background-repeat: no-repeat;
+  -webkit-background-size: 263px 60px;
+  -moz-background-size: 263px 60px;
+  background-size: 263px 60px;
+}
+
 #header {
-  background: #26272b;
+  background-color: lightgrey;
   padding-bottom: 60px;
   position: relative;
 }
